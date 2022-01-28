@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Legacy At Highwoods Preserve",
+        "address": "18600 HIGHWOODS PRESERVE PKWY",
+        "city": "TAMPA",
+        "state":"florida",
+        "zip Code": "FL 33647",
+        "county": "Hillsborough",
+        "phone": "(813) 375-9858",
+        "type": "Assisted Living Facility",
+        "capacity": "20",
+        "images1": "https://i.ibb.co/KDRvD2n/Senior-Living-Facility-Legacy-at-Highwoods-Preserve-located-at-18600-Highwoods-Preserve-Parkway-Tamp.jpg",
+        "images2": "https://i.ibb.co/rQpdV3p/Highwoods-Preserve-Photos-05-Seniorly-sd.png",
+        "images3": "https://i.ibb.co/bdftsMw/Senior-Living-Facility-Legacy-At-Highwoods-Preserve-located-at-18600-Highwoods-Preserve-Pkwy-Tampa-F.jpg"
+    },
+    {
+        "name": "Emerald Park of Hollywood",
+        "address": "15500 HIGHWOODS PRESERVE PKWY",
+        "city": "TAMPA",
+        "state":"florida",
+        "zip Code": "FL 33647",
+        "county": "Hillsborough",
+        "phone": "(813) 885-0058",
+        "type": "Assisted Living Facility",
+        "capacity": "50",
+        "images1": "https://i.ibb.co/BZ5xdBk/Senior-Living-Facility-Emerald-Park-Retirement-located-at-5770-STIRLING-RD-Hollywood-FL-33021-image.jpg",
+        "images2": "https://i.ibb.co/jfznhtG/Senior-Living-Facility-Emerald-Park-Retirement-located-at-5770-STIRLING-RD-Hollywood-FL-33021-image.jpg",
+        "images3": "https://i.ibb.co/W62Drss/Senior-Living-Facility-Emerald-Park-Retirement-located-at-5770-STIRLING-RD-Hollywood-FL-33021-image.jpg"
+    },
+    {
+        "name": "Banyan Place",
+        "address": "12600 HIGHWOODS PRESERVE PKWY",
+        "city": "TAMPA",
+        "state":"florida",
+        "zip Code": "FL 33647",
+        "county": "Hillsborough",
+        "phone": "(810) 425-9154",
+        "type": "Assisted Living Facility",
+        "capacity": "80",
+        "images1": "https://i.ibb.co/tJ7dQ9J/banyanplace-photos-06-seniorly-sd.png",
+        "images2": "https://i.ibb.co/p2XGBsL/Senior-Living-Facility-Banyan-Place-located-at-2950-NW-5th-Avenue-Boca-Raton-FL-33431-image-1-of-1.jpg",
+        "images3": "https://i.ibb.co/ZggP9TN/Senior-Living-Facility-Banyan-Place-located-at-2950-NW-5th-Avenue-Boca-Raton-FL-33431-image-2-of-14.jpg"
+    }
+    
+]

@@ -1,23 +1,26 @@
-import logo from './logo.svg';
+
 import './App.css';
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import Search from './Pages/Search';
+import Properties from './Pages/Properties';
+import PropertyDetails from './Pages/PropertyDetails';
+import 'mapbox-gl/dist/mapbox-gl.css';
+import AddProperty from './Pages/AddProperty';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div >
+      
+      <BrowserRouter>
+        <Routes>
+          <Route path='/' element={<Search/>} />
+          <Route path='/properties' element={<Properties/>} />
+          <Route path='/property/:id' element={<PropertyDetails/>} />
+          <Route path='/addproperty' element={<AddProperty/>} />
+          
+        </Routes>
+      </BrowserRouter>
     </div>
   );
 }
